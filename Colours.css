@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(30,30,30);
+  color: rgb(255,255,255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+a:link {
+    color: rgba(255,255,255,0.5);
+}
+
+a:visited {
+    color: rgba(255,255,255,0.5);
+}
+
+a:hover {
+    color: rgba(255,255,255,1);
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+
+#last {
+	position: fixed;
+	top: 15px;
+	left: 15px;
+}
+
+#content {
+	min-height: 60px;
+	margin-top: 15px;
+	margin-left: 655px;
+	width: 920px;
+	background-color: rgb(20,20,20);
+}
+
+#inner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+
+#dont {
+	display: none;
+}
+
+#list {
+	width: 909px;
+	height: 0px;
+	margin-left: 5px;
+}
+
+#line {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 560px;
+	height: 3px;
+	background-color: rgb(20,20,20);
+}
+
+#sample {
+	width: 480px;
+	height: 50px;
+	margin-top: -5px;
+	position: static;
+}
+
+#current {
+	float: left;
+	width: 160px;
+	height: 50px;
+}
+
+#current2 {
+	float: left;
+	width: 160px;
+	height: 50px;
+}
+
+#current3 {
+	float: left;
+	width: 160px;
+	height: 50px;
+}
+
+#form {
+	display: none;
+	margin-top: 30px;
+	width: 250px;
+	height: 42px;
+	background-color: rgb(20,20,20);
+}
+
+#toupload {
+	vertical-align: middle;
+}
+
+
+#bodie {
+	position: fixed;
+	left: 0;
+	top: 0;
+	margin-top: 55px;
+	margin-left: 25px;
+}
+
+#library {
+	min-height: 60px;
+	width: 906px;
+	margin-left: 450px;
+	background-color: rgb(20,20,20);
+}
+
